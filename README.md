@@ -6,11 +6,12 @@ Parallel image processing
 
 <br/>
 
-## Course Name : [Fundamentals of Accelerated Data Science with Rapids](https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-accelerated-data-science/)
+## Instructions to run the project
 
 <br/>
 
-### [Certificate Of Completion](https://courses.nvidia.com/certificates/751a01ad7828481a9e6af3d007d67533/)
+### to see code output write in terminal: gcc -o output main.c -fopenmp
+### to see the execution time using 1, 2, 4, and 8 cores, write: .\run_script.ps1
 
 <hr/>
 
